@@ -4,6 +4,7 @@ import Header from '../Header/Header';
 import CreativePlatform from '../CreativePlatform/CreativePlatform';
 import FindTrustedAssociate from '../FindTrustedAssociate/FindTrustedAssociate';
 import Featured from '../Featured/Featured';
+import Banner from '../Banner/Banner';
 
 const Home = () => {
     return (
@@ -13,6 +14,7 @@ const Home = () => {
             <CreativePlatform></CreativePlatform>
             <FindTrustedAssociate></FindTrustedAssociate>
             <Featured></Featured>
+            <Banner></Banner>
         </div>
     );
 };
