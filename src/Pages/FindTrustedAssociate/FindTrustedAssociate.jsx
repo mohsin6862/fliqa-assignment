@@ -8,11 +8,11 @@ import badge from '../../assets/Images/medal-.png'
 
 const FindTrustedAssociate = () => {
     return (
-        <div className='my-12 bg-[#A1E3D8] p-10'>
+        <div className='my-16 bg-[#A1E3D8] p-10'>
             <div>
                 <div className='flex justify-between'>
                     <div>
-                        <h1 className=' font-bold text-3xl mb-2'>Find Trusted Associate</h1>
+                        <h1 className=' font-bold text-3xl mb-2 text-[#4C696D]'>Find Trusted Associate</h1>
                         <p>Find the fliqa associate for your spical day</p>
                     </div>
                     <div><p className='text-xl text-[#4C696D]'>See More >></p></div>
