@@ -5,6 +5,7 @@ import CreativePlatform from '../CreativePlatform/CreativePlatform';
 import FindTrustedAssociate from '../FindTrustedAssociate/FindTrustedAssociate';
 import Featured from '../Featured/Featured';
 import Banner from '../Banner/Banner';
+import Footer from '../Footer/Footer';
 
 const Home = () => {
     return (
@@ -15,6 +16,7 @@ const Home = () => {
             <FindTrustedAssociate></FindTrustedAssociate>
             <Featured></Featured>
             <Banner></Banner>
+            <Footer></Footer>
         </div>
     );
 };
