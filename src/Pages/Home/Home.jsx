@@ -9,6 +9,9 @@ import Footer from '../Footer/Footer';
 import OurSuccess from '../OurSuccess/OurSuccess';
 import Services from '../Services/Services';
 import Blogs from '../Blogs/Blogs';
+import RealWedding from '../RealWedding/RealWedding';
+import Achivement from '../Achivement/Achivement';
+import Testimonials from '../Testimonials/Testimonials';
 
 const Home = () => {
     return (
@@ -21,6 +24,9 @@ const Home = () => {
             <Banner></Banner>
             <Services></Services>
             <Blogs></Blogs>
+            <RealWedding></RealWedding>
+            <Testimonials></Testimonials>
+            <Achivement></Achivement>
             <OurSuccess></OurSuccess>
             <Footer></Footer>
         </div>
