@@ -2,7 +2,7 @@ import React from 'react';
 import logo from '../../../assets/Images/FliqaIndia-Logo 1.png'
 const Navbar = () => {
     return (
-        <div className="navbar bg-[#131514] h-[150px]  px-5">
+        <div className="navbar bg-[#131514] h-[150px]  px-5 items-center">
             <div className="">
               
                 <a className="btn btn-ghost normal-case text-xl">
